@@ -1,5 +1,5 @@
 ---
-title       : 
+title       : Legacy Presentation
 subtitle    : 
 author      : 
 job         : 
@@ -20,6 +20,9 @@ mode        : selfcontained # {standalone, draft}
 
 ## Slide 2
 
+<a href='http://www.customstreetview.com/130505123540?heading=103.18&pitch=1.85&zoom=1.33'>Streetview</a>
+
+<iframe url='http://www.customstreetview.com/130505123540?heading=103.18&pitch=1.85&zoom=1.33'></iframe>
 
 
 
